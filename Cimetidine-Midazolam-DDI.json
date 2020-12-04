@@ -8640,7 +8640,7 @@
       "FormulationType": "Formulation_Dissolved"
     },
     {
-      "Name": "Tablet Midazolam",
+      "Name": "Tablet (Dormicum)",
       "FormulationType": "Formulation_Tablet_Weibull",
       "Parameters": [
         {
@@ -12114,7 +12114,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Midazolam 15 mg po control|Tablet Midazolam|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|Midazolam 15 mg po control|Tablet (Dormicum)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -12374,7 +12374,7 @@
             "Name": "Midazolam 15 mg po control",
             "Formulations": [
               {
-                "Name": "Tablet Midazolam",
+                "Name": "Tablet (Dormicum)",
                 "Key": "Formulation"
               }
             ]
@@ -12489,7 +12489,7 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Midazolam po, Salonen 1986|Tablet Midazolam|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Applications|DDI Cimetidine-Midazolam - Midazolam po, Salonen 1986|Tablet (Dormicum)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -12750,7 +12750,7 @@
             "Name": "DDI Cimetidine-Midazolam - Midazolam po, Salonen 1986",
             "Formulations": [
               {
-                "Name": "Tablet Midazolam",
+                "Name": "Tablet (Dormicum)",
                 "Key": "Formulation"
               }
             ]
