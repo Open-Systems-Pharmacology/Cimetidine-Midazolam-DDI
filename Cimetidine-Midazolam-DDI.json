@@ -14979,10 +14979,12 @@
           "Parameters": [
             {
               "Name": "Specific intestinal permeability (transcellular)",
-              "Value": 2.8740150156E-06,
+              "Value": 5.2554004942E-06,
               "Unit": "cm/min",
               "ValueOrigin": {
-                "Source": "ParameterIdentification"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -15028,10 +15030,12 @@
             },
             {
               "Name": "Specific clearance",
-              "Value": 0.1600808777,
+              "Value": 0.1209722937,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "ParameterIdentification"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -15061,10 +15065,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 103.5572034763,
+              "Value": 159.4749627996,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "ParameterIdentification"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -15095,10 +15101,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 3268741.9804,
+              "Value": 2522831.1016,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "ParameterIdentification"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -15129,10 +15137,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 10911.8399411036,
+              "Value": 14098.3224931732,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "ParameterIdentification"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
